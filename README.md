@@ -14,7 +14,6 @@ Mobile: images\mobile-shot.png
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ## Project structure
