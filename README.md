@@ -27,7 +27,7 @@ Mobile: images\mobile-shot.png
 
 ## Live Demo
 
--
+- https://fatemehjalilian.github.io/QR-code-component/
 
 ## Author
 
